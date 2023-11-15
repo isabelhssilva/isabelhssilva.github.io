@@ -1,0 +1,11 @@
+/* CSS geral para todos os dispositivos */
+
+a.u_1411647331 *.iconBg { display:none !important; }
+a.u_1411647331 {
+    border-radius:24px !important;
+    -moz-border-radius:24px !important;
+    -webkit-border-radius:24px !important;
+    -webkit-box-shadow:none !important;
+    box-shadow:none !important;
+    -moz-box-shadow:none !important;
+  }
